@@ -1,5 +1,3 @@
-# Xfce-Catppuccin
-
 # Screenshots:
 
 ![Screenshot_2022-12-25_18-25-41](https://user-images.githubusercontent.com/80240062/209468008-43c2891a-cea5-48ba-aff8-1b4cb633f901.png)
@@ -7,4 +5,21 @@
 
 # Icons:
 
-- [File Icon]()
+- [File Icon](https://github.com/ljmill/catppuccin-icons)
+- [Cursor](https://github.com/catppuccin/cursors)
+
+# Theme:
+
+- [Mocha](https://github.com/catppuccin/catppuccin)
+
+# Fonts:
+
+- Default: Roboto Regular
+- Monospace: Noto Looped Thai Light
+
+# Terminal: 
+
+- [Catppuccin xfce4 terminal](https://github.com/catppuccin/xfce4-terminal)
+- [Neofetch (used Mixedfetch)](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
+
+# [Wallpaper]()

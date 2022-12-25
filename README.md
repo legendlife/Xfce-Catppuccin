@@ -26,4 +26,5 @@
 
 - [Alnilam by closebox73](https://github.com/legendlife/Xfce-Catppuccin/tree/main/Alnilam)
 
-# [Wallpaper]()
+# [Wallpaper](https://github.com/legendlife/Xfce-Catppuccin/tree/main/wallpaper)
+

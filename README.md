@@ -28,3 +28,8 @@
 
 # [Wallpaper](https://github.com/legendlife/Xfce-Catppuccin/tree/main/wallpaper)
 
+# Others:
+
+- [Spicetify](https://github.com/catppuccin/spicetify)
+- [Visual Studio Code](https://github.com/catppuccin/visual-studio)
+- [Firefox Theme](https://github.com/catppuccin/firefox)

@@ -22,4 +22,8 @@
 - [Catppuccin xfce4 terminal](https://github.com/catppuccin/xfce4-terminal)
 - [Neofetch (used Mixedfetch)](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
 
+# Conky
+
+- [Alnilam by closebox73](https://github.com/legendlife/Xfce-Catppuccin/tree/main/Alnilam)
+
 # [Wallpaper]()
